@@ -8,7 +8,7 @@ egg-info/
 
 # Other files and folders
 .settings/
-.vscode
+.vscode/
 # Executables
 *.swf
 *.air

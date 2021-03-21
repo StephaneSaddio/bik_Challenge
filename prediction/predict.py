@@ -24,7 +24,7 @@ velo = pd.read_csv(url)
 print(velo)
 
 #%%
-velo.columns=['Date','Heure','Grandtotal','Todaystotal', 'Unnamed','Remark']
+velo.columns=['Date','Hours','Total','Today_total', 'Unnamed','Remark']
 
 velo.pop("Unnamed")
 velo.pop("Remark")
