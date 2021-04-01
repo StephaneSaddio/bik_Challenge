@@ -9,12 +9,13 @@ egg-info/
 # Other files and folders
 .settings/
 .vscode/
+.ipyng_checkpoints/
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
-
+*.ipyng_checkpoints
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
